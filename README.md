@@ -4,7 +4,10 @@ networks resources and docs
 
 ## resources
 - beej's guide to net programming https://www.beej.us/guide/bgnet ([pdf](./resources/Beej’s%20Guide%20to%20Network%20Programming%20Using%20Internet%20Sockets.pdf))
+- ip rfc 791 https://datatracker.ietf.org/doc/html/rfc791
 
+## libraries
+- libevent non-blocking https://libevent.org/libevent-book/
 
 ## tools and utils
 

@@ -52,3 +52,6 @@ networks resources and docs
 - internet protocol https://en.wikipedia.org/wiki/Internet_Protocol
 - network packet https://en.wikipedia.org/wiki/Network_packet
 - datagram https://en.wikipedia.org/wiki/Datagram
+- ip fragmentation https://en.wikipedia.org/wiki/IP_fragmentation
+- req for internet hosts comm layer https://www.rfc-editor.org/rfc/rfc1122
+- congestion control protocols https://www.rfc-editor.org/rfc/rfc2914

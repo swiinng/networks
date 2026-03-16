@@ -12,9 +12,14 @@ networks resources and docs
 
 ## tools and utils
 
-### transport / ip
+### snif & scan
+- urlsnarf _http_ https://linux.die.net/man/8/urlsnarf
 - wireshark _protocol analyzer_ https://www.wireshark.org/
 - tshark _wireshark cli_ https://tshark.dev/
+- nmap _network scan_ https://nmap.org/
+- dsniff _network auditing and pen testing_ https://www.monkey.org/~dugsong/dsniff/
+
+### transport / ip
 - tcpdump https://www.tcpdump.org/
 - iproute2mac _ip utils_ https://github.com/brona/iproute2mac
 - nc _netcat tcp/udp server/client_ https://linux.die.net/man/1/nc 
@@ -27,7 +32,6 @@ networks resources and docs
 
 ### interface / network
 - ifconfig _interface config_ https://man7.org/linux/man-pages/man8/ifconfig.8.html
-- nmap _network scan_ https://nmap.org/
 - networkSetup
 
 ### application
@@ -42,3 +46,9 @@ networks resources and docs
 ### routing
 - traceroute https://linux.die.net/man/8/traceroute
 - mtr _my trace route_ https://www.cloudflare.com/learning/network-layer/what-is-mtr/
+
+## to do research
+- udp usage guidelines rfc 8085 https://www.rfc-editor.org/rfc/rfc8085.html
+- internet protocol https://en.wikipedia.org/wiki/Internet_Protocol
+- network packet https://en.wikipedia.org/wiki/Network_packet
+- datagram https://en.wikipedia.org/wiki/Datagram

@@ -5,7 +5,10 @@ networks resources and docs
 ## resources
 - beej's guide to net programming https://www.beej.us/guide/bgnet ([pdf](./resources/Beej’s%20Guide%20to%20Network%20Programming%20Using%20Internet%20Sockets.pdf))
 - ip rfc 791 https://datatracker.ietf.org/doc/html/rfc791
-- udp usage guidelines rfc 8085 https://www.rfc-editor.org/rfc/rfc8085.html
+- ipspace _net engineers_ https://www.ipspace.net/Main_Page
+- kernel networking https://wiki.linuxfoundation.org/networking/start
+- [YT: Linux packet journey,napi, hardware queue,skb](https://www.youtube.com/watch?v=6Fl1rsxk4JQ)
+- kernel networking labs https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html
 
 ## libraries
 - libevent non-blocking https://libevent.org/libevent-book/

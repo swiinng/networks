@@ -1,7 +1,6 @@
 # networks
 networks resources and docs
 
-
 ## resources
 - beej's guide to net programming https://www.beej.us/guide/bgnet ([pdf](./resources/Beej’s%20Guide%20to%20Network%20Programming%20Using%20Internet%20Sockets.pdf))
 - ip rfc 791 https://datatracker.ietf.org/doc/html/rfc791
@@ -21,6 +20,7 @@ networks resources and docs
 - tshark _wireshark cli_ https://tshark.dev/
 - nmap _network scan_ https://nmap.org/
 - dsniff _network auditing and pen testing_ https://www.monkey.org/~dugsong/dsniff/
+- netfilter _firewalling, nat, packet mangling_ https://www.netfilter.org/
 
 ### transport / ip
 - tcpdump https://www.tcpdump.org/
@@ -49,12 +49,3 @@ networks resources and docs
 ### routing
 - traceroute https://linux.die.net/man/8/traceroute
 - mtr _my trace route_ https://www.cloudflare.com/learning/network-layer/what-is-mtr/
-
-## to do research
-- udp usage guidelines rfc 8085 https://www.rfc-editor.org/rfc/rfc8085.html
-- internet protocol https://en.wikipedia.org/wiki/Internet_Protocol
-- network packet https://en.wikipedia.org/wiki/Network_packet
-- datagram https://en.wikipedia.org/wiki/Datagram
-- ip fragmentation https://en.wikipedia.org/wiki/IP_fragmentation
-- req for internet hosts comm layer https://www.rfc-editor.org/rfc/rfc1122
-- congestion control protocols https://www.rfc-editor.org/rfc/rfc2914

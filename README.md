@@ -8,6 +8,8 @@ networks resources and docs
 - kernel networking https://wiki.linuxfoundation.org/networking/start
 - [YT: Linux packet journey,napi, hardware queue,skb](https://www.youtube.com/watch?v=6Fl1rsxk4JQ)
 - kernel networking labs https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html
+- linux ip networking https://www.cs.unh.edu/cnrg/people/gherrin/linux-net.html
+- o'reilly understanding linux networking internals
 
 ## libraries
 - libevent non-blocking https://libevent.org/libevent-book/
